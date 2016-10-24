@@ -24,7 +24,7 @@ var birthPlace = "hawaii";
 *
 * Their values should be a Number
 **/
-
+var thatOnePrinceSong = "song";
 var favoriteNumber = "50";
 var currentYear = "2016";
 
